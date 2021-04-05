@@ -1,0 +1,8 @@
+# IDE files and folders
+.vscode
+
+# Python cache
+__pycache__/
+
+# Secret files
+secret.py
